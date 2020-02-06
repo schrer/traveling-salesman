@@ -1,6 +1,5 @@
 extern crate rand;
 extern crate num;
-use num::*;
 use rand::Rng;
 use city::*;
 
